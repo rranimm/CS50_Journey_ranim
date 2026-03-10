@@ -5,7 +5,7 @@ This repo serves as a diary of my progress, challenges, and solutions as I navig
 ##  Progress Tracker
 * [x] **Week 1:** me, mario, credit.
 * [X] **Week 2:** scrabble, readability, Substitution.
-* [X] **Week 3:** _in process _
+* [ ] **Week 3:** _in process _
 
 
 #It's not a bug. It's an undocumented feature..
